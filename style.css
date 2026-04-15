@@ -13,6 +13,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+h1 {
   color: white;
   font-family: "Mea Culpa", cursive;
   font-weight: 400;
