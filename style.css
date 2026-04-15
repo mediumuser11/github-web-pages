@@ -20,3 +20,7 @@ h1 {
   font-weight: 400;
   font-size: 3rem;
 }
+p {
+  font-size: normal;
+  color: red;
+}
